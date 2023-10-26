@@ -14,6 +14,8 @@ TODO :
 
 - [ ] Withdraws as tokens ( auto swap )
 
+- [ ] ETF price oracle ( by chainlink )
+
 ### Examples :
 - Setup a ETF-token name : ``Major Crypto`` 
     - Incuding the base tokens and percentage 
